@@ -1,0 +1,32 @@
+[ 
+ {
+    "img": "WebDev.png",
+    "title":"Website development",
+    "description":"High-performance website to reach out more your potential customers"
+  },
+  {
+    "img": "Mobile apps development",
+    "title":"Mobile apps development",
+    "description":"To accelerate your business process"
+  },
+  {
+    "img": "Digital product design.png",
+    "title":"Digital product design",
+    "description":"Complete digital product creations from UX prototyping to final UI Designs"
+  },
+  {
+    "img": "Maintenance.png",
+    "title":"Maintenance",
+    "description":"Make sure your digital environment keep online and updated"
+  },
+  {
+    "img": "CMS development.png",
+    "title":"CMS Development",
+    "description":"You can update your website content yourself"
+  },
+  {
+    "img": "Payment.png",
+    "title":"Integrateed payment gateway",
+    "description":"Simplify the payment system with just one step"
+  }
+]

@@ -1,0 +1,20 @@
+[ 
+ {
+    "img": "WebDev.png",
+    "type":"Mobile Apps",
+    "title":"ILIOS app (B2B E-commerce)",
+    "description":"Has a unique selling point where not all companies offer applications for sales, data collection and management"
+  },
+  {
+    "img": "Mobile apps development",
+    "type":"Website Development",
+    "title":"Home and Living",
+    "description":"Albatech helps in creating a website catalog show brand identity and information in accordance with vision and mission in Home and Living"
+  },
+  {
+    "img": "Digital product design.png",
+    "type":"Website Development",
+    "title":"HIPPO",
+    "description":"Albatech helps to create e-commerce and company profile for Hippo's Website with realtime transaction and integrated with Payment Gateway to accept multi payment."
+  }
+]
