@@ -1,18 +1,20 @@
-const ProductCard = () =>{
-    return(
-        <>
-            <div className=" w-400 h-200">
-                <div className=" w-50 h-40">
-                    <img src="" alt="" />
-                </div>
-                <div className=" text-lg text-yellow">
-                    {}
-                </div>
-                <div>
+import Maintenance from '../images/Maintenance.png'
 
+const ProductCard = (props) =>{
+    return(
+        <div>
+            <div className=" w-200 h-200 rounded-xl border hover:border-yellow-200">
+                    <div className="h-150">
+                        <img src={require("../images/" + props.img)} alt="" />
+                    </div>
+                <div className=" text-2xl text-yellow-400 font-bold">
+                    {props.title}
+                </div>
+                <div className=''>
+                    {props.description}
                 </div>
             </div>
-        </>
+        </div>
     );
 }
 

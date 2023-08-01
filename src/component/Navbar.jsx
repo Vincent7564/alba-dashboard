@@ -4,7 +4,9 @@ const Navbar = () => {
     <>
       <nav class="flex items-center justify-center flex-wrap p-6">
         <div class="flex-grow pl-16 items-center flex-shrink-0 text-white">
+          <a href="/">
             <img src={alba} alt="" />
+            </a>
         </div>
         
         <div class="w-full flex-grow lg:flex lg:items-center lg:w-auto">

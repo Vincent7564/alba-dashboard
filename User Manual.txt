@@ -1,0 +1,8 @@
+Step by Step to run this program
+
+1. Extract or Copy Repo
+2. perform NPM Install in Terminal since im using NPM 
+3. perform NPM start
+4. if you want go to login, can go to /login
+
+this is the link github if the provided code cant be open : https://github.com/Vincent7564/alba-dashboard
